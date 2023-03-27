@@ -11,7 +11,7 @@ class AlertsScreen extends StatelessWidget {
         barrierColor: Colors.black38,
         builder: (context) {
           return AlertDialog(
-            backgroundColor: Colors.greenAccent,
+            backgroundColor: Colors.blueGrey.shade100,
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(20.0),
             ),
